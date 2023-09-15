@@ -12,3 +12,4 @@ const RandomizeQuoteGen = () => {
     //outputs the random end result to the console 
     return 'Your motivational quote is: ' + motivationalQuotes[randomMsgPos]
 };
+console.log(RandomizeQuoteGen);
